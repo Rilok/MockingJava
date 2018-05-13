@@ -1,3 +1,7 @@
+## Test TravisCI : [![Build Status](https://travis-ci.org/Rilok/MockingJava.svg?branch=master)](https://travis-ci.org/Rilok/MockingJava)
+
+## BetterCodeHub : [![BCH compliance](https://bettercodehub.com/edge/badge/Rilok/MockingJava?branch=master)](https://bettercodehub.com/)
+
 # Testowanie aplikacji JAVA 2017-2018
 ## Projekt 2 (Maven, JUnit oraz atrapy) 
 
