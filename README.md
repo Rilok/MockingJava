@@ -33,3 +33,4 @@ punktacji zadania!)
 - Różnorodne asercje (co najmniej 5 różnych).
 - Struktura projektu.
 
+.
